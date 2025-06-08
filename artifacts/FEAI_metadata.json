@@ -474,7 +474,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"NANA.sol": "FEAI"
+			"FEAI.sol": "FEAI"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
@@ -536,7 +536,7 @@
 				"dweb:/ipfs/Qmax9WHBnVsZP46ZxEMNRQpLQnrdE4dK8LehML1Py8FowF"
 			]
 		},
-		"NANA.sol": {
+		"FEAI.sol": {
 			"keccak256": "0x5fa7eed6d5737e2fb0b6aec62dd24209983fd93e13dcb386c812db687e8c4c7c",
 			"license": "MIT",
 			"urls": [
