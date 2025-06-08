@@ -537,11 +537,11 @@
 			]
 		},
 		"NANA.sol": {
-			"keccak256": "0x2555666af5990b6bff8cec9b883cd69d69b3e1a68834c9a90e3b08348e883c2a",
+			"keccak256": "0xa1850bb96fdffd979957c83ef6b8383cba29ae67b577074021aed59f14906351",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://3619f29be4f7f3731b6480518454a5570bf9def9fd1348ab86c61699b5f7be5a",
-				"dweb:/ipfs/QmWV7ipnooMcyfZn627kK9VxSxvrrCwTkLibQVGFshnexz"
+				"bzz-raw://63cb4b562fc85fa7a39628bb06c3d7afc729bc1e85c490058525514c8e6bfa2a",
+				"dweb:/ipfs/QmQYpEMwZsJfKG2Ki7foEyNKQrK84tjWaNshSBs1gmvUbU"
 			]
 		}
 	},
